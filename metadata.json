@@ -1,0 +1,6 @@
+{
+  "name": "MNET Fiber Bandung",
+  "description": "Website resmi layanan internet fiber optic kencang, stabil, dan unlimited 100% fiber untuk warga kota Bandung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
